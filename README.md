@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiteshmohapatra&label=Profile%20views&color=0e75b6&style=flat" alt="jiteshmohapatra" /> </p>
 
-- 🔭 I’m currently working on [Full Stack Web Development](https://github.com/jiteshmohapatra/Investment_Innovators.git)
+- 🔭 I’m currently working on [Full Stack Java Development](https://github.com/jiteshmohapatra/Investment_Innovators.git)
 
-- 🌱 I’m currently learning **Advance Diploma In IT and Cloud Computing**
+- 🌱 I’m currently learning **Advance Diploma In IT Networking and Cloud Computing With IBM Collaboration**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jiteshmohapatra](https://github.com/jiteshmohapatra)
 
