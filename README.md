@@ -7,6 +7,8 @@
 - 🔭 I’m currently working on [Full Stack Java Development](https://github.com/jiteshmohapatra/Investment_Innovators.git)
 
 - 🌱 Completed an **Advanced Diploma in IT Networking and Cloud Computing in collaboration with IBM (October 2024)**
+-      NSQF Level 6 Certified (Govt. of India)
+- Passionate about AI, Machine Learning, Cloud Computing, and Full Stack Development
 
 - Passionate about AI, Machine Learning, Cloud Computing, and Full Stack Development
   
