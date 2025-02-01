@@ -6,11 +6,18 @@
 
 - 🔭 I’m currently working on [Full Stack Java Development](https://github.com/jiteshmohapatra/Investment_Innovators.git)
 
-- 🌱 I’m currently learning **Advance Diploma In IT Networking and Cloud Computing With IBM Collaboration**
+- 🌱 Completed an **Advanced Diploma in IT Networking and Cloud Computing in collaboration with IBM (October 2024)**
+
+- Passionate about AI, Machine Learning, Cloud Computing, and Full Stack Development
+  
+- I have completed a 5-month internship with IBM in the Full Stack Java domain
 
 - 👨‍💻 All of my projects are available at [https://github.com/jiteshmohapatra](https://github.com/jiteshmohapatra)
 
-- 💬 Ask me about **Java,Python,PHP, AI ML**
+💬 Ask Me About
+Java, Python, PHP, AI/ML, Cloud Computing, and Full Stack Development
+Best practices for efficient coding, optimization, and scalable system architecture
+🚀 Always eager to collaborate and contribute to innovative projects! Let’s connect.
 
 - 📫 How to reach me **jiteshmohapatra2000@gmail.com**
 
