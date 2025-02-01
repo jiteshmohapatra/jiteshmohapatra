@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jiteshmohapatra](https://github.com/jiteshmohapatra)
 
-- 💬 Ask me about **Java,Python,PHP**
+- 💬 Ask me about **Java,Python,PHP,AI ML**
 
 - 📫 How to reach me **jiteshmohapatra2000@gmail.com**
 
